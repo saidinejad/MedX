@@ -52,6 +52,8 @@ That's it! You've contributed to MedX as a developer.
 4. To have your content considered for publication, you can email it to "medxmedia1@gmail.com" or our [Telegram admin](t.me/@MedX_admin). Send us your content with your full name and a photo of yourself, so we can feature you as the post's author on the website. We're also working on a self-service system for the next weeks, allowing you to post your content with all the website's features directly.
 That's it! You've contributed to MedX as a content creator.
 
+#### If you are determined to contribute, please take a moment to read the ['Code_OF-CONDUCT'](https://github.com/MedX-Media/MedX/blob/main/CODE_OF_CONDUCT.md) included in the repository. 
+
 #### certified writers
 Anyone can write on MedX's platform. However, to maintain content quality, we require a team of "certified writers". To become a certified writer, you can schedule a meeting with our Head of Writers. Before scheduling, please ensure you meet the eligibility criteria:
 - You are passionate about empowering med people to know about health-tech-related topics.
