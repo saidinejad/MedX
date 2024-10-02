@@ -1,4 +1,4 @@
-[persian version | نسخه فارسی](https://docs.google.com/document/d/1FrFl_1d6lBZ91AQ4R-AVxXuq2k-lrMpl8MjwkyrfyRg/edit?usp=sharing)
+[persian version | نسخه فارسی](https://docs.google.com/document/d/1FrFl_1d6lBZ91AQ4R-AVxXuq2k-lrMpl8MjwkyrfyRg/edit?usp=sharing) (!!)
 
 # Contributor Covenant Code of Conduct
 
